@@ -13,7 +13,8 @@ class Ios
 		
 		switch(brchoice)
 		{
-			case 1 :new Apple().set();  
+			case 1 :Mobile apple=new Mobile();  
+					apple.getFeature(true, true, "20MP",true);
 					break;
 		
 	   

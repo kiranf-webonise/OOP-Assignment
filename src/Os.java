@@ -17,8 +17,9 @@ public class Os
 					break;
 		
 			case 2 :new Ios().set();
+					break;
 			
-			default:System.out.println("invalid");
+			default:System.out.println("Invalid");
 	   
 		}
 	}
